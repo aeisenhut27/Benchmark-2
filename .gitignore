@@ -1,0 +1,15 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Node modules (if you're using any Node.js-based build tools)
+node_modules/
+
+# Build files (if you're using any build tools like Gulp or Webpack)
+dist/
+build/
